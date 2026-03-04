@@ -1,0 +1,11 @@
+{
+  "name": "acpx-viewer",
+  "version": "1.0.0",
+  "description": "Web UI for viewing acpx session information",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {}
+}
