@@ -7,5 +7,26 @@
     "start": "node server.js",
     "dev": "node --watch server.js"
   },
+  "keywords": [
+    "acpx",
+    "acp",
+    "agent-client-protocol",
+    "session-viewer",
+    "web-ui",
+    "openclaw"
+  ],
+  "author": "Hollyen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hollyen/acpx-viewer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hollyen/acpx-viewer/issues"
+  },
+  "homepage": "https://github.com/Hollyen/acpx-viewer#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
   "dependencies": {}
 }
